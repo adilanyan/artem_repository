@@ -1,4 +1,4 @@
-I want to show you how to define a simple function, use a module, and add a variable.
+I want to show you how to insert a function into your module.
 
 Example:
 
